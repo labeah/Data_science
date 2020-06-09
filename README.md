@@ -22,7 +22,7 @@ https://github.com/labeah
 
 ## Projetos:
 
-* **Airbnb, Berlim:** https://bit.ly/2XMERyr
+* **Airbnb, Berlim:** Colab: https://bit.ly/2zhLak6 | GitHub: https://bit.ly/2XMERyr
 
 ---
 
