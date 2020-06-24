@@ -23,11 +23,6 @@ https://github.com/labeah
 ## Project:
 
 * **Airbnb, Berlim:** Colab: https://bit.ly/2zhLak6 | GitHub: https://bit.ly/2XMERyr
-* **Análise de dados de violência, Rio de Janeiro:** Colab: https://bit.ly/3ducfyz | GitHub: https://bit.ly/3evmfZD
+* **Análise de dados de violência, Rio de Janeiro:** Colab: https://bit.ly/2VdwDh4 | GitHub: https://bit.ly/3evmfZD
 
 ---
-
-
-
-
-
