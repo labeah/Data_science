@@ -5,7 +5,7 @@
 </p>
 
 # Laura Beatriz
-<sub>*Data Scientist* at Tokio Mariner</sub>
+<sub>*Data Scientist* at Tokio Marine</sub>
 
 I am currently a data scientist at Tokio Marine, focusing on digital transformations with artificial intelligence (AI) and machine learning (ML).
 
