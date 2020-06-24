@@ -20,7 +20,7 @@ https://github.com/labeah
 * [LinkedIn](https://www.linkedin.com/in/laura-martins-dev/)
 
 
-## Projetos:
+## Project:
 
 * **Airbnb, Berlim:** Colab: https://bit.ly/2zhLak6 | GitHub: https://bit.ly/2XMERyr
 * **Análise de dados de violência, Rio de Janeiro:** Colab: https://bit.ly/3ducfyz | GitHub: https://bit.ly/3evmfZD
